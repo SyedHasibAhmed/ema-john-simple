@@ -1,9 +1,9 @@
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    /* position: relative; */
 }
-
-.product-container{
+.products-container{
     margin: 50px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
